@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu">
+        <item>生酮菜單</item>
+        <item>增肌菜單</item>
+        <item>減脂菜單</item>
+        <item>家常菜單</item>
+        <item>營養菜單</item>
+    </string-array>
+</resources>
